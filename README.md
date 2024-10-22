@@ -25,6 +25,10 @@ This dashboard simplifies complex mortality data, offering a user-friendly inter
 - **Tailwind CSS** – Modern utility-first CSS framework for responsive styling.
 - **Flask API** – Backend API to retrieve mortality data from a MongoDB database.
 
+![React](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png)
+![D3js](https://github.com/d3/d3-logo/blob/master/d3.png)
+![Tailwind Css](https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png)
+![Flask Logo](https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png)
 ---
 
 ## 🚀 **Getting Started**
@@ -36,7 +40,7 @@ Ensure you have the following installed on your machine:
 - **Python** to run the Flask API backend.
 - The Flask API should be up and running to provide data for the dashboard.
 
-[Link to API Repository](https://github.com/Ryuk0777/US-Mortality-Data-API)
+[![Link to API Repository](https://github.com/ErickSimoes/email-icon/blob/master/gh.png)](https://github.com/Ryuk0777/US-Mortality-Data-API)
 
 ### **Steps to Run the Project**
 
@@ -49,5 +53,6 @@ Ensure you have the following installed on your machine:
 
 If you have any questions or need further information, feel free to reach out:
 
-- **Email:** [farhan232004@gmail.com](mailto:farhan232004@gmail.com)
-- **LinkedIn:** [Farhan Shaikh](https://www.linkedin.com/in/farhan-shaikh-7a6907250/)
+[![Email](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png)](mailto:farhan232004@gmail.com)  
+[![LinkedIn](https://github.com/ErickSimoes/email-icon/blob/master/li.png)](https://www.linkedin.com/in/farhan-shaikh-7a6907250/)
+
