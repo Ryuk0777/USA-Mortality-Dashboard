@@ -57,5 +57,5 @@ Ensure you have the following installed on your machine:
 
 If you have any questions or need further information, feel free to reach out:
 
-[![Email](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png)](mailto:farhan232004@gmail.com)  [![LinkedIn](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png)](https://www.linkedin.com/in/farhan-shaikh-7a6907250/)
+[![Email](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png)](mailto:farhan232004@gmail.com)             [![LinkedIn](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png)](https://www.linkedin.com/in/farhan-shaikh-7a6907250/)
 
