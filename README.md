@@ -25,10 +25,7 @@ This dashboard simplifies complex mortality data, offering a user-friendly inter
 - **Tailwind CSS** – Modern utility-first CSS framework for responsive styling.
 - **Flask API** – Backend API to retrieve mortality data from a MongoDB database.
 
-![React](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png)
-![D3js](https://github.com/d3/d3-logo/blob/master/d3.png)
-![Tailwind Css](https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png)
-![Flask Logo](https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png)
+![React Logo](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png)  ![TailWind Logo](https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png)  ![Flask Logo](https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png)
 ---
 
 ## 🚀 **Getting Started**
@@ -39,6 +36,8 @@ Ensure you have the following installed on your machine:
 - **Node.js** and **npm** for the frontend setup.
 - **Python** to run the Flask API backend.
 - The Flask API should be up and running to provide data for the dashboard.
+
+**Link to api repo**
 
 [![Link to API Repository](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png)](https://github.com/Ryuk0777/US-Mortality-Data-API)
 
