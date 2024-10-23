@@ -42,9 +42,7 @@ Ensure you have the following installed on your machine:
 - **Python** to run the Flask API backend.
 - The Flask API should be up and running to provide data for the dashboard.
 
-**Link to api repo**
-
-[![Link to API Repository](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png)](https://github.com/Ryuk0777/US-Mortality-Data-API)
+**Link to api repo** [![Link to API Repository](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png)](https://github.com/Ryuk0777/US-Mortality-Data-API)
 
 ### **Steps to Run the Project**
 
@@ -52,6 +50,11 @@ Ensure you have the following installed on your machine:
    ```bash
    git clone https://github.com/your-username/usa-mortality-dashboard.git
    cd usa-mortality-dashboard
+
+2. **Install dependencies:**
+   ```bash
+   npm i
+   npm run dev
 
 ## 📬 **Contact**
 
